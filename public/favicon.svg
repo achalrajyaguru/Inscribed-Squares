@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blackboard background -->
+  <rect width="32" height="32" fill="#1a1a1a" rx="2"/>
+  
+  <!-- Wooden frame -->
+  <rect x="2" y="2" width="28" height="28" fill="none" stroke="#8B4513" stroke-width="2" rx="1"/>
+  
+  <!-- Chalk writing -->
+  <path d="M8 12 Q16 8 24 12" stroke="#f0f0f0" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M8 20 Q16 16 24 20" stroke="#f0f0f0" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Square -->
+  <rect x="12" y="14" width="8" height="8" fill="none" stroke="#ff6b6b" stroke-width="1"/>
+</svg>
